@@ -30,12 +30,11 @@ Conhecimento básico em HTML, CSS e de muita vontade de aprender novas tecnologi
 ###Level 1
 * Introdução 
 	* Design responsivo
-		* O mundo suas telas
-			* Google glass
-			* SmartWatches
-			* SmartPhones
-			* PC's
-			* Tv's
+		* Google glass
+		* SmartWatches
+		* SmartPhones
+		* PC's
+		* Tv's
 		
 	* Design flúido
 	* Mobile First

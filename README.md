@@ -56,6 +56,7 @@ Conhecimento básico em HTML, CSS e de muita vontade de aprender novas tecnologi
 	* produtividade
 		* Grunt
 		* Gulp
+		* Bower
 
 * Front end
 	* Media queries
